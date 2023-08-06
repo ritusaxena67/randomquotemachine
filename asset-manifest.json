@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ritusaxena67/randomquotemachine.git/static/css/main.ecd6b8a6.css",
+    "main.js": "/ritusaxena67/randomquotemachine.git/static/js/main.3021a22f.js",
+    "static/js/787.b478db33.chunk.js": "/ritusaxena67/randomquotemachine.git/static/js/787.b478db33.chunk.js",
+    "index.html": "/ritusaxena67/randomquotemachine.git/index.html",
+    "main.ecd6b8a6.css.map": "/ritusaxena67/randomquotemachine.git/static/css/main.ecd6b8a6.css.map",
+    "main.3021a22f.js.map": "/ritusaxena67/randomquotemachine.git/static/js/main.3021a22f.js.map",
+    "787.b478db33.chunk.js.map": "/ritusaxena67/randomquotemachine.git/static/js/787.b478db33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd6b8a6.css",
+    "static/js/main.3021a22f.js"
+  ]
+}
